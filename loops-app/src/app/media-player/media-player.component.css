@@ -1,0 +1,29 @@
+.grid {
+  display: grid;
+  grid-template-rows: repeat(3, 2fr);
+  grid-template-columns: repeat(3, 2fr);
+  grid-gap: 10px;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 85vh;
+  background-color: #c1b6db;
+}
+
+h1{
+  color: #6a2bff;
+  margin-right: 60px;
+}
+
+#restore{
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
