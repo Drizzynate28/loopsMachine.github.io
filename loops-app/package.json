@@ -1,6 +1,6 @@
 {
   "name": "loops-app",
-  "homepage" : "https://drizzynate28.github.io/loopsMachine.github.io/loops-app/src/index.html",
+  "homepage": "https://drizzynate28.github.io/loopsMachine.github.io/loops-app/src/index.html",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -21,6 +21,7 @@
     "@angular/platform-browser": "~12.1.2",
     "@angular/platform-browser-dynamic": "~12.1.2",
     "@angular/router": "~12.1.2",
+    "angular-cli-ghpages": "^1.0.0-rc.2",
     "file-saver": "^2.0.5",
     "howler": "^2.2.3",
     "moment": "^2.29.1",
@@ -28,6 +29,7 @@
     "pizzicato": "^0.6.4",
     "recordrtc": "^5.6.2",
     "rxjs": "~6.6.0",
+    "save-dev": "0.0.1-security",
     "tone": "^14.7.77",
     "tslib": "^2.2.0",
     "web-audio-daw": "^4.11.0",
